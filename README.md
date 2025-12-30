@@ -43,22 +43,6 @@ I am also exploring MLOps and Generative AI to build scalable, real-world AI sol
   <img src="https://img.shields.io/badge/YOLO-FF6F00?logo=yolov5&logoColor=white&style=flat-square" alt="yolo" height="28" style="margin-left:6px;">
 </p>
 
----
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Ahmed2797/Brain-Tumar-Detection-VGG16-YOLO-SAM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed2797&repo=Brain-Tumar-Detection-VGG16-YOLO-SAM&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=7f1d1d&hide_border=true&locale=en" /></a><a href="https://github.com/Ahmed2797/Kidney-Disease-Classification-Deep-learning-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed2797&repo=Kidney-Disease-Classification-Deep-learning-project&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=7f1d1d&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Ahmed2797/Real-Time-Football-Player-Team-Tracking" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed2797&repo=Real-Time-Football-Player-Team-Tracking&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=7f1d1d&hide_border=true&locale=en" /></a><a href="https://github.com/Ahmed2797/End-To-End-ML-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed2797&repo=End-To-End-ML-Project&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=7f1d1d&hide_border=true&locale=en" /></a></div>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ahmed2797"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed2797&stroke=ffffff&background=7f1d1d&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Ahmed2797" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2797&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 ### Socials
                 

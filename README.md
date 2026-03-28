@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## I'm Ahmed 😀
 
-_I'm a learning Data Scientist.
+_I'm a learning AI & ML Engineer.
 I am also exploring MLOps and Generative AI to build scalable, real-world AI solutions and continuously grow as an AI professional.
 
 *   🌍  I'm based in Bangladesh

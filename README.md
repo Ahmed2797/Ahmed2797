@@ -8,7 +8,8 @@ _I'm a learning Data Scientist.
 I am also exploring MLOps and Generative AI to build scalable, real-world AI solutions and continuously grow as an AI professional.
 
 *   🌍  I'm based in Bangladesh
-*   🖥️  See my portfolio at [https://github.com/Ahmed2797/Ahmed2797](http://https://www.linkedin.com/in/tanvir-ahmed-9a776a361/)
+*   🖥️  See my portfolio at [https://github.com/Ahmed2797/](https://github.com/Ahmed2797)
+*   Linkedin [http://www.linkedin.com/in/tanvir-ahmed-9a776a361/](http://www.linkedin.com/in/tanvir-ahmed-9a776a361/)
 *   ✉️  You can contact me at [tanvirahmed754575@gmail.com](mailto:tanvirahmed754575@gmail.com)
 *   🚀  I'm currently working on [Self learning]
 *   🧠  I'm currently learning I have some experience and interest in: Deep Learning | Machine Learning | Computer vision | Natural Language Processing | MLOps | Generative AI

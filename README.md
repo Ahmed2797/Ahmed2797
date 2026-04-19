@@ -1,5 +1,5 @@
 <!-- README.md for GitHub profile -->
-![AI](ml.gif)
+
 # Hey! Nice to see you.
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
@@ -29,6 +29,7 @@ I am also exploring MLOps and Generative AI to build scalable, real-world AI sol
 
 
 ---
+![AI](ml.gif)
 
 ### Languages and Tools:
 <p>

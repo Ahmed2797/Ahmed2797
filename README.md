@@ -12,7 +12,6 @@ I am also exploring MLOps and Generative AI to build scalable, real-world AI sol
 *   🖥️  See my portfolio at [https://github.com/Ahmed2797/](https://github.com/Ahmed2797)
 *   Linkedin [http://www.linkedin.com/in/tanvir-ahmed-9a776a361/](http://www.linkedin.com/in/tanvir-ahmed-9a776a361/)
 *   ✉️  You can contact me at [tanvirahmed754575@gmail.com](mailto:tanvirahmed754575@gmail.com)
-*   🚀  I'm currently working on [Self learning]
 *   🧠  I'm currently learning I have some experience and interest in: Deep Learning | Machine Learning | Computer vision | Natural Language Processing | MLOps | Generative AI
 *   👥  I'm looking to collaborate on Deep learning, Computer Vision,GenAI
 
@@ -29,21 +28,22 @@ I am also exploring MLOps and Generative AI to build scalable, real-world AI sol
 
 
 ---
-![AI](ml.gif)
+<p align="center">
+  <img src="ml.gif" alt="AI" />
+</p>
 
 ### Languages and Tools:
-<p>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="36" height="36"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="fastapi" height="28" style="margin-left:8px;">
-  <img src="https://img.shields.io/badge/MLflow-00AEEF?logo=mlflow&logoColor=white&style=flat-square" alt="mlflow" height="28" style="margin-left:6px;">
-  <img src="https://img.shields.io/badge/LangChain-111827?logo=langchain&logoColor=white&style=flat-square" alt="langchain" height="28" style="margin-left:6px;">
-  <img src="https://img.shields.io/badge/YOLO-FF6F00?logo=yolov5&logoColor=white&style=flat-square" alt="yolo" height="28" style="margin-left:6px;">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-00AEEF?logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-FF6F00"/>
 </p>
 
 
